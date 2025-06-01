@@ -1,0 +1,45 @@
+
+body {
+  background-color: #25003e;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.logo {
+  margin-top: 30px;
+  max-width: 150px;
+}
+h1 {
+  font-size: 28px;
+  margin-top: 15px;
+}
+.staking-box {
+  margin: 20px auto;
+  border: 2px solid gold;
+  border-radius: 12px;
+  padding: 20px;
+  width: 80%;
+  max-width: 350px;
+  background-color: #1b0030;
+}
+input {
+  width: 90%;
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px 0;
+}
+.buttons button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+#connectButton {
+  background-color: gold;
+  color: black;
+  font-weight: bold;
+  border: none;
+  padding: 12px 20px;
+  margin-top: 20px;
+}
